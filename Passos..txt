@@ -1,0 +1,5 @@
+Configurar variáveis de ambientes no windows
+Achar o aquivo pickle na pasta
+função SET define a variável de ambiente
+C:\Users\marco\OneDrive\Dataside\Projeto_ML_Titanic\meuprojeto\1576-mlops-machine-learning-aula-5\mlops-deploy>set BASIC_AUTH_USERNAME=marco
+C:\Users\marco\OneDrive\Dataside\Projeto_ML_Titanic\meuprojeto\1576-mlops-machine-learning-aula-5\mlops-deploy>set BASIC_AUTH_PASSWORD=1234 
